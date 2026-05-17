@@ -59,7 +59,7 @@ with col1:
     
     # GANTI NOMOR WA DI BAWAH INI (Pastikan pakai format 628... tanpa spasi/tanda plus)
     wa_link = "https://wa.me/6282293274916?text=Halo%20Admin,%20saya%20mau%20pesan%20Paket%20Master%20Trading%20News%20promo%20Rp149.000"
-    st.markdown(f'<a href="{wa_link}" class="btn-wa" target="_blank">📱 PESAN VIA WHATSAPP</a>', unsafe_allow_html=True)
+    st.markdown(f'<a href="{wa_link}" class="btn-wa" target="_blank">YA, SAYA MAU CUAN DARI BERITA SEKARANG!</a>', unsafe_allow_html=True)
 
 with col2:
     # Menggunakan gambar ilustrasi profesional dari Unsplash
